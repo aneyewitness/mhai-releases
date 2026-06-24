@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.0",
+  "versionCode": 40,
+  "versionName": "4.0",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "Rebuilt MHAI app with Version 3.0 Physiological Insight Dashboard, dynamic versioning, and structured update checks."
+  "changelog": "MHAI v4.0 Physiological Intelligence Engine: Continuously improving baseline, trend and stability engines, recovery detection, daily timeline, copilot observations, weekly review, and historical journal."
 }
