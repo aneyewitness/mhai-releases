@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "4.1",
+  "versionCode": 42,
+  "versionName": "4.2",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v4.1: Restored Dashboard day navigation and explorer functionality, added Overnight HRV baseline tracking card, cleaned up clinical nervous system branding, and optimized graph smoothing settings."
+  "changelog": "MHAI v4.2: Implemented Overnight HRV sleep baseline metrics card with a specific measurement timestamp/date and trend analysis."
 }
