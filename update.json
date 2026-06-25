@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "4.3",
+  "versionCode": 44,
+  "versionName": "4.4",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v4.3 (Refined): Fixed graph readability issues including unreadable zoomed X-axis clock ticks, vertical/cramped 'Now' label, overly thick live HRV line, and extreme spikes/outlier scaling compression."
+  "changelog": "MHAI v4.4: Visual and readability graph refinements, resolving unreadable zoomed X-axis clock ticks, cramped/vertical 'Now' label, dense live line block, and extreme spikes/outliers scaling compression."
 }
