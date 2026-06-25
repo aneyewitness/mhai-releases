@@ -2,5 +2,5 @@
   "versionCode": 43,
   "versionName": "4.3",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v4.3: Added dynamic Expected HRV Ranges displayed as translucent confidence bands, a 15-minute rolling LIVE scrolling ticker monitor mode, horizontal graph tabs navigation, and educational info modals for all cards."
+  "changelog": "MHAI v4.3 (Refined): Fixed graph readability issues including unreadable zoomed X-axis clock ticks, vertical/cramped 'Now' label, overly thick live HRV line, and extreme spikes/outlier scaling compression."
 }
