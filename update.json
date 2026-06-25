@@ -1,8 +1,9 @@
 {
-  "versionCode": 47,
-  "versionName": "4.7",
+  "versionCode": 48,
+  "versionName": "4.8",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v4.7: Added a calendar selector configuration dialog. Users can now choose which specific calendars are used to correlate HRV data, filtering out personal, sporting, or external events."
+  "changelog": "MHAI v4.8: Refined the calendar correlation engine to filter out non-events (focus time, outside working hours, OOO reminders, Free availability, rejected meetings, and solo invites) to avoid false HRV correlations."
 }
+
 
 
