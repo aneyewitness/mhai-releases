@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "4.9",
+  "versionCode": 50,
+  "versionName": "5.0",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v4.9: Introduced a height limit and vertical scroller on the daily physiological timeline card, and added actions to dismiss specific calendar event instances or block recurring meeting titles."
+  "changelog": "MHAI v5.0: Standardized maximum height constraint of 240.dp and added internal vertical scrollbars to all dashboard and journal panels (Worth Reviewing, Work Context, Possible Work Context Patterns, and Copilot Observations) for visual consistency."
 }
 
 
