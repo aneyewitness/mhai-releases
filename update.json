@@ -1,10 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "5.0",
-  "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v5.0: Standardized maximum height constraint of 240.dp and added internal vertical scrollbars to all dashboard and journal panels (Worth Reviewing, Work Context, Possible Work Context Patterns, and Copilot Observations) for visual consistency."
+  "versionCode": 51,
+  "versionName": "5.1",
+  "apkUrl": "https://raw.githubusercontent.com/aneyewitness/MHAI/main/whoop-logger-latest.apk",
+  "changelog": "MHAI v5.1: Fixed critical bug where calendar events the user is not invited to were incorrectly showing in work context. Added SELF_ATTENDEE_STATUS check and explicit attendee list verification. Events on shared/subscribed calendars where the user is not an invitee are now correctly filtered out."
 }
-
-
-
-
