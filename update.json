@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "5.2",
+  "versionCode": 53,
+  "versionName": "5.3",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v5.2: Fixed critical bugs: 1) Future calendar events no longer display nonsensical HRV status text (displays 'Scheduled' instead). 2) Calendar events where the user is not an invitee are correctly filtered out."
+  "changelog": "MHAI v5.3: Added GitHub REST API integration and client/CDN cache-busting to the update manager. This ensures the update checker and APK downloads immediately fetch the latest released versions without CDN propagation delays."
 }
