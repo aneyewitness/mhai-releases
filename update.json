@@ -1,6 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "4.5",
+  "versionCode": 46,
+  "versionName": "4.6",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v4.5: Replaced the separate advanced diagnostics graphs with a unified dual-Y-axis chart, placing heartbeat interval on the left Y-axis and heart rate on the right Y-axis. Reversed the daily physiological timeline order to be reverse chronological."
+  "changelog": "MHAI v4.6: Added local calendar event correlation and targeted contact resolver proof-of-concept. Correlates local calendar events with HRV changes to display meeting metrics and identify possible work-context patterns locally."
 }
+
