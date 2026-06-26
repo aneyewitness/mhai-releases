@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "5.3",
+  "versionCode": 60,
+  "versionName": "6.0",
   "apkUrl": "https://raw.githubusercontent.com/aneyewitness/mhai-releases/main/whoop-logger-latest.apk",
-  "changelog": "MHAI v5.3: Added GitHub REST API integration and client/CDN cache-busting to the update manager. This ensures the update checker and APK downloads immediately fetch the latest released versions without CDN propagation delays."
+  "changelog": "MHAI v6.0: Physiological Memory tab, Memory Engine (Meeting and Participant profiles, Positive Memory, Autonomic stress/recovery patterns), expanded Weekly Review details, and Highest Impact Today section."
 }
